@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Socket Example</string>
+    <string name="client">client</string>
+    <string name="server">server</string>
+    <string name="device_name">نام</string>
+    <string name="device_name_is_null">لطفا نام خود را وارد نمایید!!!</string>
+    <string name="Device_Name_Key">DeviceName</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">نقشه</string>
+    <string name="PORT">50200</string>
+    <string name="request_to_connect_server_device">اتصال به گوشی پایه</string>
+    <string name="server_request_type_key">RequestType</string>
+    <string name="pair_request_dialog_title">درخواست اتصال</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="title_activity_server_map">Map</string>
+    <string name="title_activity_client_map">Map</string>
+    <string name="pair_request">درخواست اتصال</string>
+    <string name="title_activity_maps_activitylklk">Map</string>
+</resources>
